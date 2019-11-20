@@ -1,0 +1,7 @@
+1) Fce - Vybrat SPZ, která překročila 90 Km/h
+2) Fce - Vybrat SPZ, která překročila 60 Km/h
+3) Fce - Vybrat SPZ, která překročila 130 Km/h
+4) Fce - Vybrat SPZ, která překročila zadanou rychlost
+5) Fce - Vybrat SPZ, podle zadaného kraje
+6) Fce - Počet SPZ, podle zadaného kraje
+7) Fce - vlastní Fce
